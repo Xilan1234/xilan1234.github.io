@@ -1,0 +1,112 @@
+.a:hover, #new p:hover{color:#ff0000;}
+#header {
+	background: black;
+	height: 190px;
+	
+}
+#header img {height: 190px; float:left;}
+#menu {
+	width: 200px;
+	background: white;
+	float: left;
+	margin-right: 20px;
+	margin-top: 22px;
+	border-radius: 5px;
+	padding-left: 5px;
+}
+#main {
+	float: left;
+	width: 1250px;
+}
+#new,#new1, #newgame, #reviews, #footer {
+	background: white;
+	height: 250px;
+	border-radius: 5px;
+	padding-left: 5px;
+}
+#new2{
+	background: white;
+	height: 1000px;
+	border-radius: 5px;
+	padding-left: 5px;
+}
+#new7{
+	background: white;
+	height: 500px;
+	border-radius: 5px;
+	padding-left: 5px;
+}
+
+.b{
+	margin:3px;
+}
+#reviews {}
+.menu_a {
+display: block;
+font-size: 30px;
+color: black;
+text-decoration: none;
+font-family:'Impact';
+}
+#footer {
+	width: 100%;
+	height: 200px;
+	background:white;
+	margin-top: 20px;
+	text-align: center;
+}
+#clearfix{clear:both;}
+body {
+background-color: #000000;
+}
+
+
+
+
+
+
+
+.d1 input {
+	position:relative;
+  top: 72px;
+  left:400px;
+  height: 40px;
+  border-radius: 0px 5px 5px 0px;
+  outline: none;
+  width: 300px;
+  border: none;
+}
+.d1 button {
+	position:relative;
+  top: 72px;
+  left: 400px;
+  width: 42px;
+  height: 42px;
+  border: none;
+  background-image:url('logo.png');
+  background-repeat:no-repeat;
+  background-position:center center;
+  border-radius: 5px 0px 0px 5px;
+  cursor: pointer;
+  float:left;
+  background-color: white;
+}
+
+#new p, .a {
+  text-decoration: none;
+  line-height: 0.2em;
+  color:black;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+
+
+#new1 p, .a {
+  text-decoration: none;
+  line-height: 1.0em;
+  color:black;
+  font-size: 25px;
+  font-weight: bold;
+}
+
